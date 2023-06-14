@@ -10,7 +10,7 @@ namespace DEMO
     {
         public string sayHello()
         {
-            Console.WriteLine("Hi");
+            Console.WriteLine("Hello");
             return "Hello";
         }
     }
